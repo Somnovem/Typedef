@@ -9,7 +9,7 @@ float sum(float a, float b) {
 	return a + b;
 }
 typedef unsigned long long ull_t;
-unsigned long long = 10l;
+unsigned long long smth = 10l;
 ull_t num2 = 100l;
 ull_t sum(ull_t a, ull_t b) {
 
