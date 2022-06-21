@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+*.db
+*.vsidx
+*.db-shm
+*.db-wal
+*.opendb
+*.db
+.vs/Typedef/v17/.suo
+TypeDef/.vs/TypeDef/v17/Browse.VC.db
+*.db
